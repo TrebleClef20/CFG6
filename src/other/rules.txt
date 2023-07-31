@@ -1,0 +1,3 @@
+S -> abcd| aMbcNd
+M-> aMb | ?
+N->cNd|?
